@@ -185,7 +185,7 @@ header {
 }
 
 .showcase {
-  background: #111 url(img/air2.jpg.jpg) no-repeat center/cover;
+  background: #111 url(img/bg.jpg) no-repeat center/cover;
   height: 100vh;
   width: 100%;
   overflow: hidden;
