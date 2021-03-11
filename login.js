@@ -12,6 +12,6 @@ signInButton.addEventListener("click", () =>
 
 const popup = document.querySelector("#popup");
 
-popup.addEventListener("click", function () {
+popup.addEventListener("click", function (){
   alert(" This product is under development ");
 });
