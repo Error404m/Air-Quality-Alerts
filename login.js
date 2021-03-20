@@ -10,7 +10,7 @@ signInButton.addEventListener("click", () =>
   container.classList.remove("right-panel-active")
 );
 
-const popup = document.querySelector("#popup");
+const popup = document.querySelector("#");
 
 popup.addEventListener("click", function (){
   alert(" This product is under development ");
