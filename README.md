@@ -12,7 +12,7 @@ Air Quality Manamagement system is an IoT project that sends alerts when Air qua
 ### Work Progress
 - [x] Hardware Part
 - [x] Frontnened Part
-- [ ] Backened Part
+- [x] Backened Part
 
 ### GROUP MEMBERS:
 
